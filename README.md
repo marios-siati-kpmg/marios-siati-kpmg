@@ -5,6 +5,6 @@
 - 📫 How to reach me: [e-mail](mailto:marios.shiatis@outlook.com)
 
 <!---
-marios-siati-kpmg/marios-siati is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+marios-siatis/marios-siatis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
