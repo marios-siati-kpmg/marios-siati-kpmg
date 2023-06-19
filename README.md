@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @marios-siati 
 - 👀 Passionate software engineer
-- 🌱 I’m currently working in ideas that could create innovative applications
+- 🌱 I’m currently working on ideas that could create innovative applications
 - 💞️ I’m looking to collaborate with like minded individuals, with a touch of madness 
 - 📫 How to reach me: [e-mail](mailto:marios.shiatis@outlook.com)
 
